@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Desafio 1 QA Pigz</title>
+</head>
 <body>
     <h1>Desafio 1 QA Pigz</h1>
 
@@ -29,3 +34,4 @@
         </tr>
     </table>
 </body>
+</html>
