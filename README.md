@@ -1,7 +1,5 @@
 <body>
-    <h1>
-        Dasafio 1 QA Pigz
-    </h1>
+    <h1>Dasafio 1 QA Pigz</h1>
 
     <table border="1">
         <tr>
