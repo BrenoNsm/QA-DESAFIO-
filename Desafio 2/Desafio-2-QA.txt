@@ -1,0 +1,21 @@
+Descrição do bug: 
+Ao cadastrar um entregador, é permitido inserir um CPF inválido e o cadastro é finalizado normalmente, sem exibir nenhuma mensagem de erro.
+
+Passos para reproduzir o bug:
+
+1. Acesse a página de cadastro de entregadores.
+2. Preencha o formulário com as informações do entregador.
+3. Insira um CPF inválido no campo correspondente.
+4. Clique no botão de enviar para finalizar o cadastro.
+5. O cadastro é finalizado normalmente, sem exibir nenhuma mensagem de erro.
+
+Prioridade do bug: Alta.
+
+Possíveis impactos no sistema:
+
+- Entregadores sem CPF válido podem ser cadastrados no sistema, o que pode afetar a segurança e confiabilidade do serviço.
+- Esse bug pode afetar a integração com outras ferramentas, como o sistema de emissão de notas fiscais.
+
+Passos para resolver o problema:
+
+1. Abrir uma tarefa no Azure Boards para reportar o bug encontrado.
