@@ -57,4 +57,17 @@
         <td>O sistema impede o cadastro de um restaurante já cadastrado no sistema.</td>
     </tr>
     <tr>
-        <td>Cadastro de restaurante com campos obrigatórios em branco</td
+        <td>Cadastro de restaurante com campos obrigatórios em branco</td>
+        <td>
+                <ol>
+                    <li>Acessar o painel de administação do sistema.</li>
+                    <li>Selecionar a opção Cadastro de restaurantes.</li>
+                    <li>Deixar os campos obrigatórios em branco.</li>
+                    <li>Clica no botão salvar.</li>
+                    <li>Verifica se houve o retorno da menssagem de erro informado que os campos obrigatóriosdevem ser preenchidos.</li>
+                    <li>Verifica se o restaurante não e cadastrado no sistema</li>
+                    <td>O sistema impede o cadastro de um restaurante com campos obrigatórios em branco.</td>
+                </ol>
+            </td>
+        </tr>
+    </table>
