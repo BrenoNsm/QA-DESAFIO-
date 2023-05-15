@@ -1,30 +1,3 @@
-<body>
-    <h1>Dasafio 1 QA Pigz</h1>
-
-    <table border="1">
-        <tr>
-            <th>Funcionalidade</th>
-            <th>Cenário de teste</th>
-            <th>Passos</th> 
-            <th>Resultado esperado</th>
-        </tr>
-        <tr>
-            <td><ol>
-                <li>Cadastro de novos restaurantes</li>
-            </ol></td>
-            <td>Casdastro de restaurante com todos os campos preenchidos corretamente</td>
-            <td>
-                <ol>
-                    <li>Acessar o painel de administação do sistema.</li>
-                    <li>Selecionar a opção Cadastro de restaurante.</li>
-                    <li>Preencher os campos obrigatorios com válidos como o nome, endereço, telefone é CNPJ.</li>
-                    <li>Checar se o CNPJ informado é válido.</li>
-                    <li>Verificar se o sistema exibiu a menssagem de confirmação.</li>
-                    <li>É aguarda se o usuário ira ser redirecionado para lista de restaurantes cadastrados.</li>
-                    <td>O restaurante foi cadastrado com sucesso.</td>
-                </ol>
-            </td>
-        </tr>
-    </table>
-    
-</body>
+| Funcionalidade            | Cenário de teste                                          | Passos                                                                                                                                                                                                                           | Resultado esperado               |
+|---------------------------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| Cadastro de novos restaurantes | Cadastro de restaurante com todos os campos preenchidos corretamente | 1. Acessar o painel de administração do sistema. 2. Selecionar a opção Cadastro de restaurante. 3. Preencher os campos obrigatórios com informações válidas, como nome, endereço, telefone e CNPJ. 4. Checar se o CNPJ informado é válido. 5. Verificar se o sistema exibiu a mensagem de confirmação. 6. Aguardar o redirecionamento do usuário para a lista de restaurantes cadastrados. | O restaurante foi cadastrado com sucesso. |
