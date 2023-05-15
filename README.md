@@ -1,8 +1,6 @@
-<h1>
-        Dasafio 1 QA Pigz
-    </h1>
-
-    <table border="1">
+<h1>Dasafio 1 QA Pigz</h1>
+<body>
+   <table border="1">
         <tr>
             <td>Funcionalidade</td>
             <td>Cenário de teste</td>
@@ -20,3 +18,4 @@
             </ol></td>
         </tr>
     </table>
+</body>
